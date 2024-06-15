@@ -1,2 +1,2 @@
-# USETFN
-Source code of our new work "Unsupervised Self-Expressive Tensor Fusion Network for Hyperspectral Image Super Resolution"
+# SETFN
+Source code of our new work "Self-Expressive Tensor Fusion Network for Hyperspectral Image Super Resolution"
