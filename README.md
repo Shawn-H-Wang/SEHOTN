@@ -1,2 +1,2 @@
-# SETFN
-Source code of our new work "Self-Expressive Tensor Fusion Network for Hyperspectral Image Super Resolution"
+# SEHOTN
+Source code of our new work "Self-Expressive High-Order Tensor Network for Unsupervised Hyperspectral and Multispectral Images Fusion"
